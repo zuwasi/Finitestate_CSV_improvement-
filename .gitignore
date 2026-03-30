@@ -1,0 +1,7 @@
+__pycache__/
+*.bak
+*.bak2
+*.bak_mit
+cwe_db/nvd_feeds/
+nvd_enrich_err.txt
+nvd_enrich_log.txt
